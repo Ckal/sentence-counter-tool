@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that counts the sentences of an input. It takes an input.",
+  "name": "sentence_counter",
+  "tool_class": "sentence_counter.SentenceCounterTool"
+}
